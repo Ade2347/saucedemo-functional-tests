@@ -18,11 +18,11 @@ Test coverage covers both positive and negative scenarios
 
 | Feature         | Format   | File                                     |
 |-----------------|----------|-----------------------------------------------|
-| Login           | Excel    | [login-tests.xlsx](test-cases/login/login-tests.xlsx) |
-| Cart            | Excel    | [cart-tests.xlsx](test-cases/cart/cart-tests.xlsx)     |
-| Checkout        | Excel    | [checkout.xlsx](test-cases/checkout/checkout.xlsx) |
-| Inventory       | Excel    | [checkout.xlsx](test-cases/checkout/checkout.xlsx) |
-| Logout Test     | Excel    | [logout.xlsx](test-cases/logout/logout.xlsx)             |
+| Login           | Excel    | [login-tests.xlsx] |
+| Cart            | Excel    | [cart-tests.xlsx]|
+| Checkout        | Excel    | [checkout.xlsx] |
+| Inventory       | Excel    | [checkout.xlsx]|
+| Logout Test     | Excel    | [logout.xlsx]        |
 
 ## 📊 Summary Snapshot
 <img width="926" alt="image" src="https://github.com/user-attachments/assets/7ba0f69e-d5b9-4f0c-9d9b-bbc00a31f287" />
